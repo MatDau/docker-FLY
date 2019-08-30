@@ -10,6 +10,7 @@ RUN apt-get --yes -qq update \
                       python3-pip \
                       virtualenv \
                       wget \
+                      maven \
                       zlib1g-dev \
                       nodejs       \
                       npm      \
